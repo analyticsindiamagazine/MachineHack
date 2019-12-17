@@ -1,0 +1,6 @@
+tqdm==4.32.1
+numpy==1.17.0
+scipy==1.2.1
+pandas==0.25.0
+scikit-learn==0.21.3
+lightgbm==2.2.3
