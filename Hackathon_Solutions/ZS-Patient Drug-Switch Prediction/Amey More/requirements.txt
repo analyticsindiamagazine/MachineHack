@@ -42,7 +42,7 @@ fastprogress==0.1.22
 future==0.17.1
 graphviz==0.13
 hibagent==1.0.1
-httplib2==0.9.2
+httplib2==0.18.0
 hyperlink==17.3.1
 hyperopt==0.1.2
 idna==2.8
