@@ -25,7 +25,7 @@ colorama==0.3.7
 command-not-found==0.3
 configobj==5.0.6
 constantly==15.1.0
-cryptography==2.8
+cryptography==3.2
 cycler==0.10.0
 cymem==2.0.3
 dataclasses==0.7
