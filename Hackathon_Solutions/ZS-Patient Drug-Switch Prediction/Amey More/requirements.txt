@@ -127,7 +127,7 @@ python-slugify==4.0.0
 pytz==2019.3
 PyWavelets==1.1.1
 pyxdg==0.25
-PyYAML==5.1.2
+PyYAML==5.4
 pyzmq==18.1.0
 requests==2.22.0
 requests-unixsocket==0.1.5
