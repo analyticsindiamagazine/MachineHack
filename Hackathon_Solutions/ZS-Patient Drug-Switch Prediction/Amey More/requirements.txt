@@ -110,7 +110,7 @@ pyasn1==0.4.2
 pyasn1-modules==0.2.1
 pycparser==2.19
 pycrypto==2.6.1
-Pygments==2.4.2
+Pygments==2.7.4
 pygobject==3.26.1
 PyJWT==1.5.3
 pymongo==3.9.0
