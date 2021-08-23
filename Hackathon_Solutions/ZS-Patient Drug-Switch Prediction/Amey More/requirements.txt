@@ -82,7 +82,7 @@ nbformat==4.4.0
 netifaces==0.10.4
 networkx==2.4
 nltk==3.4.5
-notebook==6.0.1
+notebook==6.4.1
 numba==0.47.0
 numexpr==2.7.0
 numpy==1.18.1
