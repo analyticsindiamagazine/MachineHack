@@ -71,7 +71,7 @@ kiwisolver==1.1.0
 language-selector==0.1
 lightgbm==2.2.3
 llvmlite==0.31.0
-Mako==1.1.0
+Mako==1.2.2
 MarkupSafe==1.1.1
 matplotlib==3.1.2
 mistune==0.8.4
