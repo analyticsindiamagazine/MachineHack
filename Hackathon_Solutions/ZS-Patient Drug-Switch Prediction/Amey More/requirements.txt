@@ -94,7 +94,7 @@ pamela==1.0.0
 pandas==0.25.3
 pandoc==1.0.2
 pandocfilters==1.4.2
-paramiko==2.7.1
+paramiko==2.10.1
 parso==0.5.1
 pexpect==4.7.0
 pickleshare==0.7.5
