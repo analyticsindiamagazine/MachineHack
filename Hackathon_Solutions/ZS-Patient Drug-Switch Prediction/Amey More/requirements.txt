@@ -62,7 +62,7 @@ jsonpointer==1.10
 jsonschema==3.1.1
 jupyter-client==5.3.4
 jupyter-core==4.6.0
-jupyterhub==1.0.0
+jupyterhub==1.5.0
 kafka-python==1.4.6
 kaggle==1.5.6
 keyring==10.6.0
